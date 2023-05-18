@@ -1,0 +1,119 @@
+.logo{
+    width: 82px;
+    height: 26px;
+}
+.card{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card-text{
+    color: #707070;
+    text-align: left;
+    font-family: 'roboto';
+    font-weight: 300;
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+.card-text-subtitulo{
+    margin-top: 11px;
+    margin-bottom: 2px;
+    color: #707070;
+    text-align: left;
+    font-family: 'roboto';
+    font-weight: 300;
+    font-size: 16px;
+}
+.card-title{
+    color: #212529;
+    text-align: left;
+    font-family: 'roboto';
+    font-weight: 300;
+    font-size: 20px;
+    margin-bottom: 11px;
+}
+.card-text-ubicacion{
+    color:#707070;
+    font-family: 'roboto';
+    font-weight: 300;
+    font-size: 13px;
+    text-align: left;
+    margin-bottom: 0;
+}
+.text-body-secondary{
+    margin-top: 0%;
+    color:#707070;
+    text-align: left;
+    font-family: 'roboto';
+    font-weight: 300;
+    font-size: 13px;
+}
+hr{
+    color: #707070;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.fa-solid{
+    margin-right: 4px;
+}
+.precio-uno{ 
+    color: #707070;
+    font-size: 16px;
+    margin-right: 10px;
+    font-family: 'roboto';
+    font-weight: 300;
+}
+.precio-dos{
+    color: #28a745;
+    font-size: 20px;
+    font-family: 'roboto';
+    font-weight: 500;
+}
+.display-7{
+    font-size: 0.575rem;
+}
+.btn {
+    font-family: 'roboto';
+    font-weight: 500;
+    font-size: 16px;
+}
+.logo-negro{
+    width: 82px;
+    height: 24px;
+    
+}
+footer{
+    padding: 20px;
+}
+.derechos{
+    color:#707070;
+    text-align: center;
+    font-family: 'roboto';
+    font-weight: 300;
+    font-size: 16px;
+    width: auto;
+    margin-bottom: 0;
+}
+h3{
+    text-align: center;
+    font-family: 'roboto';
+    font-weight: 500;
+    font-size: 21px;
+}
+.form-control{
+    color:#707070;
+    text-align: left;
+    font-family: 'roboto';
+    font-weight: 300;
+    font-size: 16px;
+}
+.logo-negro{
+    display: block;
+    margin: auto;
+    
+}
+form {
+    padding: 20px;
+}
